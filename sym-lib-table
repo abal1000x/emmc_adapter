@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KLMCG4JETD")(type "KiCad")(uri "${KIPRJMOD}/dependency/schematic/KLMCG4JETD.kicad_sym")(options "")(descr ""))
+  (lib (name "SniffPoint")(type "KiCad")(uri "${KIPRJMOD}/dependency/schematic/SniffPoint.kicad_sym")(options "")(descr ""))
+)

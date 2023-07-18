@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KLMCG4JETD")(type "KiCad")(uri "${KIPRJMOD}/dependency/footprint/KLMCG4JETD.pretty")(options "")(descr ""))
+  (lib (name "SniffPoint")(type "KiCad")(uri "${KIPRJMOD}/dependency/footprint/SniffPoint.pretty")(options "")(descr ""))
+)
